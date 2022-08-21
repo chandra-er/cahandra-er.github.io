@@ -8,11 +8,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!--     <link rel="stylesheet" href="style.css"> -->
     <style>
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap');
+
     * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Ubuntu;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 body {
